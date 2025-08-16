@@ -1,4 +1,5 @@
-# DATASET - https://www.kaggle.com/datasets/quora/question-pairs-dataset
+# DATASET
+https://www.kaggle.com/datasets/quora/question-pairs-dataset
 
 # Pair Question Problem
 
@@ -14,3 +15,5 @@ It uses **machine learning / NLP techniques** like Bag of Words (BoW) along with
 - Trained ML model (`model.pkl`) for predictions - used random forest and xgBoost
 - Helper utilities for preprocessing and predictions  
 - Ready-to-use application script (`app.py`)
+
+> **Note**: The `.pkl` files (`model.pkl`, `cv.pkl`) are **not uploaded** here due to size constraints. 
